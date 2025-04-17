@@ -1,7 +1,3 @@
-Project Screenshot
-
-![image](https://github.com/GayathriThangaraj/kitter_world/assets/125265735/4fbee74b-5148-412e-af38-66aacf16116e)
-
 Prerequisites
 
 Before you begin, ensure you have met the following requirements:
